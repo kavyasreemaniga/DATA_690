@@ -1,7 +1,7 @@
 # Assignment 1
 ------------------------------------------------------------------
 
-***KAVYA SREE MANIGA***
+**KAVYA SREE MANIGA**
 
 **Education**
 
