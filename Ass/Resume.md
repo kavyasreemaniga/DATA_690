@@ -1,22 +1,22 @@
 # Assignment 1
 ------------------------------------------------------------------
 
-**KAVYA SREE MANIGA**
+## KAVYA SREE MANIGA
 
-**Education**
+### Education
 
 
 *   B.Tech in Civil Engineering, Manipal Institute of Technology, India
 *   M.P.S in Data Science, University of Maryland Baltimore County
 
-**Technical** **Skills**
+### Technical Skills
 
 *   **Programming** **Languages** - C,C#, Python and MATLAB, Visual Basic Applications(VBA)
 *   **Databases** - MySQL
 
 *   **IDEs and Application server** - Anaconda, Jupyter Notebook, Google Colab, Microsoft Visual Studio
 
-**Projects**
+### Projects
 
 
 *   Analysis of Water Tank during Earthquake                                                                             - Jan’17-May’17
@@ -26,13 +26,13 @@
     * A GUI is developed for beam columns with and without different loads  acting on the structure. Developed the code through MATLAB and Python.
     
     
-**Industry**
+### Industry
 
 
 *   Software Developer, PSV Precast Pvt Ltd., 2020-2021
 *   Intern, Pennar Industries, 2019
 
-**Activities**
+### Activities
 
 
 *   Worked as an Event Head for ISTE Tech Fest
