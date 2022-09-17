@@ -1,6 +1,5 @@
 # Assignment 1
-------------------------------------------------------------------
-
+-----
 ## KAVYA SREE MANIGA
 
 ### Education
@@ -38,7 +37,7 @@
 *   Worked as an Event Head for ISTE Tech Fest
 *   Worked as an Organizer for the Judges category in the college cultural fest, Revels, 2015
 
-**Contact** **Information** - 
+### Contact Information
 
 
 *   kavyasree.maniga@gmail.com
