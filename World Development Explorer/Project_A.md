@@ -43,5 +43,7 @@ For example, wealth may impact health, women's education levels may impact their
 Use scatter plots (scatter and/or bubble chart)
 You MUST use data from all countries (not just data from the countries you choose). Becasue we need large sample size to infer on association/relation.
 Pick just one year
+![scatterplotpng](https://user-images.githubusercontent.com/112644875/198933528-19577947-f97b-487e-b9e6-86b6dea4db4c.png)
+![gdp_exports](https://user-images.githubusercontent.com/112644875/198934084-bec55ac5-6566-4c12-9f71-419f9a350fc8.png)
 
 
