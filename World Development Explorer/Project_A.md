@@ -33,3 +33,15 @@ we use the World Development Explorer (worlddev.xyz) to understand the GDP of co
 ## Requirement A - You compare different countries and show similarities/differences and describe your analysis Use Bar/pie charts Pick one year
 ![2017_gdppercapita](https://user-images.githubusercontent.com/112644875/198931747-d52df560-bd37-46c8-a5f9-59c9f0e6213f.png)
 
+## Requirement B - You also look at the historic trend to spot any changes
+Use Line charts
+Use all years
+![netnational_incomepercapita](https://user-images.githubusercontent.com/112644875/198932781-0edd8737-1fad-42f0-9375-c7dadc0ff860.png)
+
+## Requirement C - You will explore relations between two indicators
+For example, wealth may impact health, women's education levels may impact their employment.
+Use scatter plots (scatter and/or bubble chart)
+You MUST use data from all countries (not just data from the countries you choose). Becasue we need large sample size to infer on association/relation.
+Pick just one year
+
+
