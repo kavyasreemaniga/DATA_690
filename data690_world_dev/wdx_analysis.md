@@ -12,11 +12,12 @@ The necessity of economic progress is often emphasized, but only recently have m
 Azerbaijan Bhutan Switzerland Algeria Ethiopia
 
 ## Determine what time span you would like to cover 
-2004 - 2009
+2005-2021
 
 ## Step 4. Use WDX to explore the topics and indicators of your interests
 
--6.0.GDP_current -6.0.GDP_growth -BX.GSR.MRCH.CD - Goods exports -5.1.AMeanIncGr.All -6.0.Conspc
+ -6.0.GDP_growth -BX.GSR.MRCH.CD - Goods exports -6.0.Conspc -NY.GDP.MKTP.CD -NE.EXP.GNFS.KD.ZG
+
 
 ## What is it that you are investigating/exploring/analyzing (provide sufficient background information)?
 
