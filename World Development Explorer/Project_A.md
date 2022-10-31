@@ -11,7 +11,8 @@ The necessity of economic progress is often emphasized, but only recently have m
 
 Azerbaijan Bhutan Switzerland Algeria Ethiopia
 
-## Determine what time span you would like to cover 2004 - 2009
+## Determine what time span you would like to cover 
+2004 - 2009
 
 ## Step 4. Use WDX to explore the topics and indicators of your interests
 
@@ -30,3 +31,5 @@ Azerbaijan Bhutan Switzerland Algeria Ethiopia
 we use the World Development Explorer (worlddev.xyz) to understand the GDP of countries according to the indicator 6.0.GDP_current
 
 ## Requirement A - You compare different countries and show similarities/differences and describe your analysis Use Bar/pie charts Pick one year
+![2017_gdppercapita](https://user-images.githubusercontent.com/112644875/198931747-d52df560-bd37-46c8-a5f9-59c9f0e6213f.png)
+
