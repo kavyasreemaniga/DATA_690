@@ -1,0 +1,246 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2005,11411.1917767434,NY.GDP.PCAP.PP.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+1,2006,11788.5601929389,NY.GDP.PCAP.PP.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+2,2007,12326.0770059101,NY.GDP.PCAP.PP.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+3,2008,12655.218465125,NY.GDP.PCAP.PP.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+4,2009,12719.1791547486,NY.GDP.PCAP.PP.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+5,2010,13096.8847273115,NY.GDP.PCAP.PP.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+6,2011,13500.0447902878,NY.GDP.PCAP.PP.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+7,2012,13303.3275185881,NY.GDP.PCAP.PP.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+8,2013,13056.8025915699,NY.GDP.PCAP.PP.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+9,2014,13003.2668603131,NY.GDP.PCAP.PP.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+10,2015,12015.6405282427,NY.GDP.PCAP.PP.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+11,2016,11624.3407751545,NY.GDP.PCAP.PP.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+12,2017,11737.4012353821,NY.GDP.PCAP.PP.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+13,2018,11908.5376066966,NY.GDP.PCAP.PP.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+14,2019,12008.264830338,NY.GDP.PCAP.PP.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+15,2020,11323.3122190849,NY.GDP.PCAP.PP.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+16,2021,12037.4812354389,NY.GDP.PCAP.PP.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+17,2005,6740.4240629969,NY.GDP.PCAP.PP.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+18,2006,9243.4976455431,NY.GDP.PCAP.PP.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+19,2007,11732.8414907335,NY.GDP.PCAP.PP.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+20,2008,12969.2003782405,NY.GDP.PCAP.PP.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+21,2009,13972.5947839401,NY.GDP.PCAP.PP.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+22,2010,14678.7737395302,NY.GDP.PCAP.PP.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+23,2011,14804.5744507911,NY.GDP.PCAP.PP.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+24,2012,15957.7188502849,NY.GDP.PCAP.PP.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+25,2013,17188.9455056612,NY.GDP.PCAP.PP.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+26,2014,17443.8782563094,NY.GDP.PCAP.PP.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+27,2015,14938.4011276715,NY.GDP.PCAP.PP.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+28,2016,14371.0227410092,NY.GDP.PCAP.PP.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+29,2017,14121.4069355591,NY.GDP.PCAP.PP.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+30,2018,14549.0618972126,NY.GDP.PCAP.PP.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+31,2019,15051.5612816033,NY.GDP.PCAP.PP.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+32,2020,14478.5244519377,NY.GDP.PCAP.PP.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+33,2021,15842.8895089134,NY.GDP.PCAP.PP.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+34,2005,4058.1260154336,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+35,2006,4417.2012529398,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+36,2007,5309.2117877139,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+37,2008,5613.8473688004,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+38,2009,5971.3684573216,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+39,2010,6694.2496690953,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+40,2011,7295.8533284229,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+41,2012,7912.1446445091,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+42,2013,7989.6891789258,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+43,2014,8666.4557246366,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+44,2015,9500.6507156498,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+45,2016,10457.244384538,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+46,2017,11142.4746724654,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+47,2018,11619.5574665237,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+48,2019,12365.5138425313,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+49,2020,11129.3084547092,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+50,2005,640.9698467699,NY.GDP.PCAP.PP.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+51,2006,712.3435690279,NY.GDP.PCAP.PP.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+52,2007,793.3215141242,NY.GDP.PCAP.PP.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+53,2008,871.5463025925,NY.GDP.PCAP.PP.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+54,2009,928.392024165,NY.GDP.PCAP.PP.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+55,2010,1028.4364860163,NY.GDP.PCAP.PP.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+56,2011,1134.7845092345,NY.GDP.PCAP.PP.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+57,2012,1213.5959716993,NY.GDP.PCAP.PP.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+58,2013,1283.5704492513,NY.GDP.PCAP.PP.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+59,2014,1513.7032362895,NY.GDP.PCAP.PP.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+60,2015,1657.3447042637,NY.GDP.PCAP.PP.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+61,2016,1878.8126819381,NY.GDP.PCAP.PP.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+62,2017,2021.5629079601,NY.GDP.PCAP.PP.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+63,2018,2153.7690813597,NY.GDP.PCAP.PP.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+64,2019,2315.1581378132,NY.GDP.PCAP.PP.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+65,2020,2422.6810259853,NY.GDP.PCAP.PP.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+66,2021,2599.7361652959,NY.GDP.PCAP.PP.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+67,2005,41749.2164457237,NY.GDP.PCAP.PP.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+68,2006,46502.9282746387,NY.GDP.PCAP.PP.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+69,2007,51208.0988282218,NY.GDP.PCAP.PP.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+70,2008,54096.8078629618,NY.GDP.PCAP.PP.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+71,2009,53354.0046402285,NY.GDP.PCAP.PP.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+72,2010,54858.4480758362,NY.GDP.PCAP.PP.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+73,2011,57987.5020305492,NY.GDP.PCAP.PP.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+74,2012,59933.5986829168,NY.GDP.PCAP.PP.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+75,2013,62225.087267788,NY.GDP.PCAP.PP.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+76,2014,64103.0104476336,NY.GDP.PCAP.PP.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+77,2015,66020.2043398841,NY.GDP.PCAP.PP.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+78,2016,68105.1549836834,NY.GDP.PCAP.PP.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+79,2017,69103.570264696,NY.GDP.PCAP.PP.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+80,2018,71660.2068398902,NY.GDP.PCAP.PP.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+81,2019,72033.9294404588,NY.GDP.PCAP.PP.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+82,2020,71745.2993952823,NY.GDP.PCAP.PP.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+83,2021,77324.0881086006,NY.GDP.PCAP.PP.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+84,2005,2066.8790641268,NY.ADJ.NNTY.PC.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+85,2006,2320.2481802242,NY.ADJ.NNTY.PC.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+86,2007,2780.0960066181,NY.ADJ.NNTY.PC.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+87,2008,3465.5865416555,NY.ADJ.NNTY.PC.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+88,2009,2952.572410262,NY.ADJ.NNTY.PC.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+89,2010,3432.1554610326,NY.ADJ.NNTY.PC.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+90,2011,3986.8158451237,NY.ADJ.NNTY.PC.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+91,2012,4111.9703182116,NY.ADJ.NNTY.PC.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+92,2013,4081.0779492472,NY.ADJ.NNTY.PC.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+93,2014,4124.1170264867,NY.ADJ.NNTY.PC.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+94,2015,3303.960601693,NY.ADJ.NNTY.PC.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+95,2016,3274.9294264724,NY.ADJ.NNTY.PC.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+96,2017,3342.4179142914,NY.ADJ.NNTY.PC.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+97,2018,3241.3923262148,NY.ADJ.NNTY.PC.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+98,2019,3151.6613567243,NY.ADJ.NNTY.PC.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+99,2020,2735.0944551185,NY.ADJ.NNTY.PC.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+100,2005,956.9155983055,NY.ADJ.NNTY.PC.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+101,2006,1374.4719555395,NY.ADJ.NNTY.PC.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+102,2007,2072.8452938423,NY.ADJ.NNTY.PC.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+103,2008,3169.0775960064,NY.ADJ.NNTY.PC.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+104,2009,3331.1489370896,NY.ADJ.NNTY.PC.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+105,2010,3870.3219796312,NY.ADJ.NNTY.PC.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+106,2011,4682.2711423274,NY.ADJ.NNTY.PC.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+107,2012,5190.1024208569,NY.ADJ.NNTY.PC.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+108,2013,5591.7289081039,NY.ADJ.NNTY.PC.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+109,2014,6039.2890260189,NY.ADJ.NNTY.PC.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+110,2015,4460.6632769063,NY.ADJ.NNTY.PC.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+111,2016,3018.5995274195,NY.ADJ.NNTY.PC.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+112,2017,3198.1057433341,NY.ADJ.NNTY.PC.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+113,2018,3372.9114122884,NY.ADJ.NNTY.PC.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+114,2019,3606.3243678705,NY.ADJ.NNTY.PC.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+115,2020,3489.8050882889,NY.ADJ.NNTY.PC.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+116,2005,1087.7734540279,NY.ADJ.NNTY.PC.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+117,2006,1181.2779656508,NY.ADJ.NNTY.PC.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+118,2007,1522.6367572186,NY.ADJ.NNTY.PC.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+119,2008,1562.7127222501,NY.ADJ.NNTY.PC.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+120,2009,1537.9488362058,NY.ADJ.NNTY.PC.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+121,2010,1842.9593278923,NY.ADJ.NNTY.PC.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+122,2011,2087.8994223425,NY.ADJ.NNTY.PC.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+123,2012,2048.1852114753,NY.ADJ.NNTY.PC.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+124,2013,2032.2582174547,NY.ADJ.NNTY.PC.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+125,2014,2176.9674006669,NY.ADJ.NNTY.PC.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+126,2015,2232.9922704386,NY.ADJ.NNTY.PC.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+127,2016,2330.119142343,NY.ADJ.NNTY.PC.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+128,2017,2640.872780103,NY.ADJ.NNTY.PC.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+129,2018,2637.2633586422,NY.ADJ.NNTY.PC.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+130,2019,2688.6802759398,NY.ADJ.NNTY.PC.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+131,2020,2482.5745983455,NY.ADJ.NNTY.PC.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+132,2005,111.0769206183,NY.ADJ.NNTY.PC.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+133,2006,139.6090951402,NY.ADJ.NNTY.PC.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+134,2007,169.4021749962,NY.ADJ.NNTY.PC.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+135,2008,235.8801642147,NY.ADJ.NNTY.PC.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+136,2009,280.7711418524,NY.ADJ.NNTY.PC.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+137,2010,253.7920061855,NY.ADJ.NNTY.PC.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+138,2011,257.3696848527,NY.ADJ.NNTY.PC.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+139,2012,344.1105375706,NY.ADJ.NNTY.PC.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+140,2013,371.0460192583,NY.ADJ.NNTY.PC.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+141,2014,433.3202347136,NY.ADJ.NNTY.PC.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+142,2015,491.1463144611,NY.ADJ.NNTY.PC.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+143,2016,562.0812788921,NY.ADJ.NNTY.PC.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+144,2017,612.8552912513,NY.ADJ.NNTY.PC.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+145,2018,649.8195878943,NY.ADJ.NNTY.PC.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+146,2019,730.5372585852,NY.ADJ.NNTY.PC.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+147,2020,807.7146168815,NY.ADJ.NNTY.PC.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+148,2005,48466.6063655248,NY.ADJ.NNTY.PC.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+149,2006,50637.877980423,NY.ADJ.NNTY.PC.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+150,2007,51715.0092887231,NY.ADJ.NNTY.PC.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+151,2008,53414.4448371972,NY.ADJ.NNTY.PC.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+152,2009,56404.0600615897,NY.ADJ.NNTY.PC.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+153,2010,63794.0883597728,NY.ADJ.NNTY.PC.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+154,2011,71482.6884757919,NY.ADJ.NNTY.PC.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+155,2012,69245.0681433519,NY.ADJ.NNTY.PC.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+156,2013,70273.6079683752,NY.ADJ.NNTY.PC.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+157,2014,69888.3820460863,NY.ADJ.NNTY.PC.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+158,2015,67173.8596116757,NY.ADJ.NNTY.PC.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+159,2016,64491.4181770261,NY.ADJ.NNTY.PC.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+160,2017,63880.5240578711,NY.ADJ.NNTY.PC.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+161,2018,63796.9249457147,NY.ADJ.NNTY.PC.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+162,2019,63271.7572258934,NY.ADJ.NNTY.PC.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+163,2020,63793.5936531567,NY.ADJ.NNTY.PC.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+164,2005,50267999999.9977,BX.GSR.TOTL.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+165,2006,59721000000.0026,BX.GSR.TOTL.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+166,2007,67127572447.3702,BX.GSR.TOTL.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+167,2008,86654862453.6663,BX.GSR.TOTL.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+168,2009,52860813856.1447,BX.GSR.TOTL.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+169,2010,65168162141.3629,BX.GSR.TOTL.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+170,2011,80830581599.2147,BX.GSR.TOTL.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+171,2012,79094592945.0749,BX.GSR.TOTL.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+172,2013,72135098775.6459,BX.GSR.TOTL.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+173,2014,66846165650.0605,BX.GSR.TOTL.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+174,2015,40102767889.8765,BX.GSR.TOTL.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+175,2016,35171643986.4898,BX.GSR.TOTL.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+176,2017,39939802620.5639,BX.GSR.TOTL.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+177,2018,45538830402.1984,BX.GSR.TOTL.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+178,2019,39593857128.5246,BX.GSR.TOTL.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+179,2020,25749299403.9697,BX.GSR.TOTL.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+180,2005,8341331000.0,BX.GSR.TOTL.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+181,2006,13994393000.0,BX.GSR.TOTL.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+182,2007,22682991000.0,BX.GSR.TOTL.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+183,2008,32484232000.0,BX.GSR.TOTL.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+184,2009,23310691000.0,BX.GSR.TOTL.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+185,2010,28910312000.0,BX.GSR.TOTL.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+186,2011,38057559000.0,BX.GSR.TOTL.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+187,2012,37837472000.0,BX.GSR.TOTL.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+188,2013,36941498000.0,BX.GSR.TOTL.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+189,2014,34230672000.0,BX.GSR.TOTL.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+190,2015,21288283000.0,BX.GSR.TOTL.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+191,2016,18499727000.0,BX.GSR.TOTL.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+192,2017,21125504000.0,BX.GSR.TOTL.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+193,2018,27115308000.0,BX.GSR.TOTL.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+194,2019,25219210259.9695,BX.GSR.TOTL.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+195,2020,17064300000.0,BX.GSR.TOTL.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+196,2021,27303525000.0,BX.GSR.TOTL.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+197,2006,381915532.056848,BX.GSR.TOTL.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+198,2007,663135422.111435,BX.GSR.TOTL.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+199,2008,688334873.782716,BX.GSR.TOTL.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+200,2009,595343456.579325,BX.GSR.TOTL.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+201,2010,606876814.677449,BX.GSR.TOTL.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+202,2011,762221392.115894,BX.GSR.TOTL.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+203,2012,746446088.736621,BX.GSR.TOTL.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+204,2013,685401498.133039,BX.GSR.TOTL.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+205,2014,678569468.512538,BX.GSR.TOTL.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+206,2015,748140243.546082,BX.GSR.TOTL.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+207,2016,666802935.819124,BX.GSR.TOTL.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+208,2017,746384595.057072,BX.GSR.TOTL.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+209,2018,821097545.936979,BX.GSR.TOTL.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+210,2019,814917182.791113,BX.GSR.TOTL.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+211,2020,816188649.762587,BX.GSR.TOTL.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+212,2005,1972885985.14426,BX.GSR.TOTL.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+213,2006,2254263814.57155,BX.GSR.TOTL.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+214,2007,2726114070.12038,BX.GSR.TOTL.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+215,2008,3532787710.09648,BX.GSR.TOTL.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+216,2009,3436424616.29417,BX.GSR.TOTL.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+217,2010,4652359009.5406,BX.GSR.TOTL.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+218,2011,5840334742.73855,BX.GSR.TOTL.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+219,2012,6003581060.99672,BX.GSR.TOTL.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+220,2013,6124095308.03315,BX.GSR.TOTL.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+221,2014,6396127496.36029,BX.GSR.TOTL.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+222,2015,6026047096.00217,BX.GSR.TOTL.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+223,2016,5917837030.30667,BX.GSR.TOTL.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+224,2017,6666299091.10363,BX.GSR.TOTL.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+225,2018,7690819312.4557,BX.GSR.TOTL.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+226,2019,7654757397.51471,BX.GSR.TOTL.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+227,2020,7727453323.19631,BX.GSR.TOTL.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+228,2005,327174531405.96,BX.GSR.TOTL.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+229,2006,359281563638.084,BX.GSR.TOTL.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+230,2007,424198608164.017,BX.GSR.TOTL.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+231,2008,446336248398.246,BX.GSR.TOTL.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+232,2009,414573190857.699,BX.GSR.TOTL.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+233,2010,510630433330.33,BX.GSR.TOTL.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+234,2011,579829485511.75,BX.GSR.TOTL.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+235,2012,581571090731.963,BX.GSR.TOTL.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+236,2013,621690901443.079,BX.GSR.TOTL.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+237,2014,620171341239.436,BX.GSR.TOTL.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+238,2015,580705293258.069,BX.GSR.TOTL.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+239,2016,600007802765.468,BX.GSR.TOTL.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+240,2017,628271902160.304,BX.GSR.TOTL.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+241,2018,662698858413.123,BX.GSR.TOTL.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+242,2019,653917734889.699,BX.GSR.TOTL.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+243,2020,613590262180.395,BX.GSR.TOTL.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+244,2021,741616414143.087,BX.GSR.TOTL.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
